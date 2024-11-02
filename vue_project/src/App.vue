@@ -112,7 +112,7 @@ body {
       .talk_bar {
         height: calc(100vh - 56px);
         width: 320px;
-        /* background-color: rgb(88, 0, 253); */
+        background-color: rgb(255, 255, 255);
         position: absolute;
         top: 0px;
         right: 0px;
